@@ -1,1 +1,1 @@
-
+Skills: RFM Analysis, Clustering
