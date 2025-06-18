@@ -1,1 +1,1 @@
-
+Tools: gspread, pandas
